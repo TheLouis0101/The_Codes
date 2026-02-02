@@ -1,4 +1,4 @@
-## The_Codes-Roblox-Script
+## The_Codes
 # 📄 Licença
 Copyright © 2026 **The_Studio** (por TheLouis0101). Todos os direitos reservados.
 
