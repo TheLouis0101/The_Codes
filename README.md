@@ -40,9 +40,8 @@ To ensure your **security** and the integrity of your computer, please note the 
 
 > I (**TheLouis0101**) am not responsible for damages caused by modified versions or versions downloaded **outside** of this **official repository**.
 
-# Links
+# Script
 ## Português Brasileiro
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheLouis0101/The_Codes-Roblox-Script/refs/heads/main/main.lua"))()
 
 ## Inglish
 
