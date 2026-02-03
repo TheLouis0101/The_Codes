@@ -6,7 +6,7 @@ Este software e os arquivos associados são de propriedade exclusiva do usuário
 
 ## ⚠️ AVISO DE SEGURANÇA (IMPORTANTE)
 
-Este script é distribuído apenas através deste repositório oficial (https://github.com/TheLouis0101/The_Codes-Roblox-Script/) criado em 02/02/2026.
+Este script é distribuído apenas através deste repositório oficial (https://github.com/TheLouis0101/The_Codes) criado em 02/02/2026.
 
 Se **você baixou este código de qualquer outro link**, site ou canal de terceiros, apague-o de todas as formas possíveis **imediatamente**.
 
