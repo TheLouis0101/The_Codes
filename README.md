@@ -21,3 +21,10 @@ Para garantir sua **segurança** e a integridade do seu computador, observe o se
 **📢 Denuncie:** Se encontrar alguém se passando por mim (TheLouis0101) ou distribuindo este script de forma ilegal, por favor, abra uma "Issue" aqui no repositório.
 
 > Eu (**TheLouis0101**) não me responsabilizo por danos causados por versões modificadas ou baixadas **fora** deste **repositório oficial**.
+
+# Links
+## Português Brasileiro
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheLouis0101/The_Codes-Roblox-Script/refs/heads/main/main.lua?token=GHSAT0AAAAAADUTFL2EDU5PUAUDVVLOYS3W2MBMNXQ"))()
+
+## Inglish
+
