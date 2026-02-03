@@ -39,9 +39,3 @@ To ensure your **security** and the integrity of your computer, please note the 
 **📢 Report:** If you find someone impersonating me (TheLouis0101) or distributing this script illegally, please open an "Issue" here in the repository.
 
 > I (**TheLouis0101**) am not responsible for damages caused by modified versions or versions downloaded **outside** of this **official repository**.
-
-# Script
-## Português Brasileiro
-
-## Inglish
-
