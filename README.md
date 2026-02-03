@@ -6,7 +6,7 @@ Este software e os arquivos associados são de propriedade exclusiva do usuário
 
 ## ⚠️ AVISO DE SEGURANÇA (IMPORTANTE) - [Português Brasileiro]
 
-Este script é distribuído apenas através deste repositório oficial (https://github.com/TheLouis0101/The_Codes) criado em 02/02/2026.
+Este script é distribuído apenas através deste repositório oficial (https://github.com/TheLouis0101/The_Codes) criado em 02/02/2026 (e publicado em 03/02/2026).
 
 Se **você baixou este código de qualquer outro link**, site ou canal de terceiros, apague-o de todas as formas possíveis **imediatamente**.
 
@@ -24,7 +24,7 @@ Para garantir sua **segurança** e a integridade do seu computador, observe o se
 
 ## ⚠️ SECURITY WARNING (IMPORTANT) - [Inglish]
 
-This script is distributed only through this official repository (https://github.com/TheLouis0101/The_Codes) created on 02/02/2026.
+This script is distributed only through this official repository (https://github.com/TheLouis0101/The_Codes) created on 02/02/2026 (and published on 03/02/2026).
 
 If **you downloaded this code from any other link**, website, or third-party channel, delete it immediately by any means possible.
 
